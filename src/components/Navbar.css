@@ -1,0 +1,12 @@
+.navbar {
+    height: 80px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 172, 224);
+}
+
+.navbar > a {
+    color: whitesmoke;
+}

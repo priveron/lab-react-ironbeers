@@ -1,0 +1,10 @@
+.beer  {
+    display: flex;
+}
+
+.beer > img {
+    height: 180px;
+    width: 100px;
+    object-fit: contain;
+    align-self: flex-start;
+}
